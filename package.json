@@ -23,7 +23,7 @@
     "mocha": "^3.0.0"
   },
   "dependencies": {
-    "node-han-css": "^0.2.0",
+    "node-han-css": "mr-cn/node-han-css",
     "object-assign": "^4.1.0"
   }
 }
